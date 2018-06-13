@@ -7,7 +7,7 @@
       <text class="userinfo-nickname">{{userInfo.nickName}}</text>
     </block>
   </view>
-  <map longitude='重庆经度' latitude='重庆纬度'></map>
+  <map longitude='重庆经度测试' latitude='重庆纬度'></map>
   <view class="usermotto">
     <text class="user-motto">{{motto}}</text>
   </view>
